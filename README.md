@@ -7,7 +7,6 @@
 
 📩 No dudes en comunicarte 📩
 Correo: ivan.nicolas.valero.11@gmail.com
-linkedin: https://www.linkedin.com/in/ivan-nicolas-valero/
 <!--
 **Ivan-Nicolas-Valero-FT-36B/Ivan-Nicolas-Valero-FT-36B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
